@@ -1,0 +1,22 @@
+{
+  "name": "ybanez-portfolio",
+  "version": "1.0.0",
+  "description": "Julienne Ybañez - BSIT Student Portfolio",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "nuxt": "^4.0.0",
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "^1.0.0",
+    "typescript": "^5.3.0"
+  }
+}
